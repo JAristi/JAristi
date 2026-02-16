@@ -1,20 +1,18 @@
-<div align="Center">
-<img width="100" src="https://github.com/user-attachments/assets/fae54e71-c962-4868-ad16-f727a0593d00" />
-
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 <div align="center">
-
-<a href="https://github.com/CtorW">
-<img src="https://github.com/user-attachments/assets/77f249fa-d3bf-4ece-aad2-7fe374d1217f" />
-</a>
-
-[![GitHub Followers](https://img.shields.io/github/followers/CtorW?label=Follow&style=social)](https://github.com/CtorW)
-[![GitHub Stars](https://img.shields.io/github/stars/CtorW?style=social)](https://github.com/CtorW)
+<h1 align="center">Hola, soy Juan Aristizabal 👋</h1>
 </div>
 
+<a href="https://github.com/CtorW">
+<img src="./Images/JARISTI.gif" />
+</a>
 
-🌱 Currently immersed in the world of **Arch Linux**, fascinated by the sleekness of **Hyprland**, and always on the lookout for inspiring **Dotfiles** like **HyDE**, **HyprLuna**, and **End-4 dots**.
+## Sobre mi <img src="./Images/cat.gif" width="30">
 
-💻 Passionately building an **Arch Installer** project. 
+¡Bienvenido a mi rincón digital de descubrimiento y creación! Este es mi espacio dedicado a explorar los infinitos caminos del aprendizaje y la programación. Aquí encontrarás una colección de proyectos que reflejan mi pasión por los detalles, mi amor por convertir ideas en realidad y mi constante búsqueda de nuevas aventuras en el mundo del desarrollo. <b><i> Únete a mí mientras trazo mi propio camino en el vasto paisaje digital, compartiendo risas, conocimientos y el asombroso poder de la programación </i></b>
+
+- 📲  Fullstack Developer
+- 💬 Preguntame sobre <b>Java, Spring Boot, Angular, AWS</b>
 
 
 <div align="Center">
@@ -23,57 +21,61 @@
 
 <div align="Center">
 
-| Website | Programming |
-| ------------- | ------------- |
-| <img src="https://skillicons.dev/icons?i=html,css,js,sass,py"/> | <img src="https://skillicons.dev/icons?i=bash,vscode,vscodium,sublime,github"/> |
+<!--tech stack icons-->
+## Mi Stack 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,css,discord,docker,azure,express,figma,firebase,github,html,js,materialui,mongodb,mysql,nextjs,nodejs,bitbucket,dart,lit,php,spring,postman,react,angular,tailwind,vscode,vite&perline=14" />
+  </a>
+</p>
 
+</div>
+
+## Mis Stats <img src="./images/gear.gif" width="30">
+
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=JAristi&theme=radical&show_icons=true&count_private=true&locale=es" />
+  <br></br>
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAristi&layout=donut-vertical&theme=radical&locale=es"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+<!--- trophy (start) -->
+<div align=center>
+    <div>
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=JAristi&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </div>
 </div>
 
 <br>
 <br>
-<br>
 
-<div align="Center">
-<h1>Operating Systems</h1>
-
-<img src="https://skillicons.dev/icons?i=windows,arch,linux,mint,ubuntu"/>
-
-</div>
-
-<br>
-<br>
-
-| Snake Eating Contributions in the last year |
 | ------------------------------------------|
 | ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) | 
 
 
 
-<div align="Center">
-
-| CtorW's Stats | Ultimate Streak |
-| ------------- | ------------- |
-| ![CtorW's Stats](https://github-readme-stats.vercel.app/api?username=CtorW&theme=onedark&show_icons=true&hide_border=true&count_private=true)  | ![CtorW's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CtorW&theme=onedark&hide_border=true) 
-
-| Most Lang |
-| ----------|
-| ![CtorW's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CtorW&theme=onedark&show_icons=true&hide_border=true&layout=compact) |
-
-
-</div>
-
 <br>
 <br>
 
-<div align="Center">
+## Conecta Conmigo
 
-|‎ ‎ ‎ ‎ Contacts‎ ‎ ‎ ‎ |
-| ----------|
-| <a href="mailto:lorenceisidoro@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  <a href="https://instagram.com/xir.rence"> <img src="https://skillicons.dev/icons?i=instagram"/> </a> ‎ ‎ ‎ ‎  <a href="[https://instagram.com/xir.rence](https://discord.com/users/729473858179956859)"> <img src="https://skillicons.dev/icons?i=discord"/> </a> |
+<!--icons and links-->
+<p>
+<a href="https://www.linkedin.com/in/juan-aristizabal-40215125b" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 
-</div>
-
-------
-
-Credit: [Ctorw](https://github.com/CtorW)
-Last Edited on: 12/04/2005
+</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
