@@ -16,11 +16,6 @@
 
 | ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) | 
 
-
-<div align="Center">
-<h1>Skills</h1>
-</div>
-
 <div align="Center">
 
 <!--tech stack icons-->
@@ -32,32 +27,6 @@
 </p>
 
 </div>
-
-## Mis Stats
-
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=JAristi&theme=radical&show_icons=true&count_private=true&locale=es" />
-  <br></br>
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAristi&layout=donut-vertical&theme=radical&locale=es"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-<br>
-<br>
-
 
 ## Conecta Conmigo
 
