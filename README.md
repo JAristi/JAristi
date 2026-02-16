@@ -14,6 +14,8 @@
 - 📲  Fullstack Developer
 - 💬 Preguntame sobre <b>Java, Spring Boot, Angular, AWS</b>
 
+| ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) | 
+
 
 <div align="Center">
 <h1>Skills</h1>
@@ -31,7 +33,7 @@
 
 </div>
 
-## Mis Stats <img src="./images/gear.gif" width="30">
+## Mis Stats
 
 <!--- stats & Trophy (start) -->
 <p align="center">
@@ -53,23 +55,9 @@
 </table>
 <!--- stats (end) -->
 
-<!--- trophy (start) -->
-<div align=center>
-    <div>
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=JAristi&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </div>
-</div>
-
 <br>
 <br>
 
-| ------------------------------------------|
-| ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) | 
-
-
-
-<br>
-<br>
 
 ## Conecta Conmigo
 
